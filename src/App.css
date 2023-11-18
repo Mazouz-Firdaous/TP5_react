@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.page{
+  border-radius: 50px;
+  background: linear-gradient(145deg, #bebec9, #e2e2ef);
+  box-shadow:  20px 20px 60px #b3b3be,
+           -20px -20px 60px #f3f3ff;
+  padding: 30px;
+  border: 1px solid rgb(239, 236, 231);
+  border-radius: 20px;
+  
+}
+.st{
+  padding: 40px;
+  color: rgb(184, 184, 184);
+ 
+}
+.bg-light{
+  border-radius: 10px;
+}
+.offcanvas-white{
+  background-color: white;
+}

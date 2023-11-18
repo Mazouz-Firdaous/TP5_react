@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  background-color: #ffffff; /* Couleur de fond pour la carte */
+  border-radius: 10px; /* Coins arrondis */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Ombre légère */
+  padding: 20px;
+  width: 100%;
+  max-width: 900px; /* Largeur maximale de la carte */
+}
